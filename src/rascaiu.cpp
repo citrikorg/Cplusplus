@@ -10,8 +10,8 @@ Les cartes s emmagatzemen en 1Bytes:
 1Byte=8bits 1B = 0000 0000
 		 to   to
 		 FFFF FFFF
-		 PAL  NUM (0-255) Tot i que nomes hauriem de fer servir valor fins a 12
- 		 (0-255) Nomes fer servir 4opc = 1000b
+		 PAL  NUM (0-255) Tot i que nomes hauriem de fer servir valor fins a 12 (0000-1100b)
+ 		 (0-255) Nomes fer servir 4opc = (0000-0100b), podria ser 111b
 */
 
 
